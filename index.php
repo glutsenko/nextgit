@@ -73,13 +73,7 @@
         rem? Aliquam amet cumque deleniti dolore eos laborum minima neque porro qui unde. Accusamus, adipisci, amet aut
         beatae cumque cupiditate dolorem eaque earum eos ex excepturi exercitationem fugiat illum minus necessitatibus,
         neque quae quasi reiciendis rerum suscipit temporibus ullam ut vel voluptas voluptatem?</p>
-<<<<<<< HEAD
 
-        <p>necessitatibus,
-        neque quae quasi reiciendis rerum suscipit temporibus ullam ut vel voluptas voluptatem?</p>
-=======
-            <p>123</p>
->>>>>>> master
 </div>
 <footer>
     <div class="container">
