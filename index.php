@@ -6,10 +6,32 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>DVLPR web</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>Header</header>
+<header>
+
+        <div class="container">
+            <div class="wrapper__header">
+                <div class="logo">
+                    <p><span>DWP.</span></p>
+                </div>
+                <nav>
+                    <ul>
+                        <li>First</li>
+                        <li>Second</li>
+                        <li>Third</li>
+                    </ul>
+                </nav>
+            </div>
+
+        </div>
+
+</header>
 <div class="container">
+    <div class="wrapper__container">
+
+    </div>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae consectetur cupiditate delectus distinctio dolores
     esse et illo laborum minima nostrum officiis porro quasi ratione sapiente suscipit, ullam, voluptatum. Deserunt
     dicta exercitationem rerum veritatis voluptatem! Dolor ducimus et, maxime omnis perspiciatis placeat possimus sit!
@@ -59,6 +81,12 @@
             <p>123</p>
 >>>>>>> master
 </div>
-<footer>Footer</footer>
+<footer>
+    <div class="container">
+        <div class="wrapper__container">
+            Footer
+        </div>
+    </div>
+    </footer>
 </body>
 </html>
